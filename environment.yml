@@ -1,0 +1,15 @@
+name: sam_segmentation_curvature
+
+channels:
+  - mosaic
+
+dependencies:
+  - python=3.7.*
+  - numpy
+  - matplotlib
+  - jupyter
+  - timagetk
+  - cellcomplex
+  - tissue_nukem_3d
+  - tissue_paredes
+  - visu_core

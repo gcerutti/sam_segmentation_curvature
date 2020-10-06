@@ -13,3 +13,4 @@ dependencies:
   - tissue_nukem_3d
   - tissue_paredes
   - visu_core
+  - panel

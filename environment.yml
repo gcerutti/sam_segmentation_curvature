@@ -10,7 +10,9 @@ dependencies:
   - jupyter
   - timagetk
   - cellcomplex
+  - draco_stem
   - tissue_nukem_3d
-  - tissue_paredes
+  - tissue_analysis
+  - sam_atlas
   - visu_core
   - panel
